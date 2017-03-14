@@ -1,0 +1,63 @@
+.topbar{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+
+.logo{
+	border: 2px solid red;
+	width: 20%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.logo img {
+	width: 100%;
+}
+
+.menubar{
+	border: 2px solid red;
+	width: 80%;
+	float: right;
+	box-sizing: border-box;
+	padding: 15px;
+	text-align: center;
+}
+
+.slider{
+	width: 100%;
+	border: 2px solid blue;
+	box-sizing: border-box;
+	clear: both;
+}
+
+.slider img{
+	width: 100%;
+}
+
+.latest_news{
+	width: 100%
+	margin: 0;
+	padding: 0;
+	border: 2px solid yellow;
+	overflow: hidden;
+}
+
+.news{
+	width: 33.33%;
+	float: left;
+	box-sizing: border-box;
+	border: 1px solid green;
+	padding: 5px;
+}
+
+.news img{
+	width: 100%;
+}
+
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+}
